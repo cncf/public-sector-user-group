@@ -32,7 +32,12 @@ Develop informational resources including guides, tutorials, and white papers to
 The CNCF Public Sector User Group focuses on the following topics of the lifecycle of cloud-native applications:
 
 - Isolated Environment Cloud Native Computing
+  - _An isolated environment is an environment that, because of locality or security constraints, is never connected to a broader network (airgapped) and must therefore be provisioned and maintained through media transfer (sneakernet)._
 - Far Edge Cloud Native Computing
+  - _The far edge refers to systems that, because of size, weight, and power (SWAP) or locality constraints, is limited in scalability of computing resources and in connectivity to broader networks._
+- Limited Access Cloud Native Computing
+  - _Limited access refers to cloud environments that, because of security classification or citizenship requirements, have physical connectivity restrictions and specialized regulatory approvals for data processing._
+
 
 The group will work on developing best practices, fostering collaboration between related projects, working on improving tool interoperability, as well as proposing new initiatives and projects when blank spots in the current landscape are identified.
 
