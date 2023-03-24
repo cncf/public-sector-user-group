@@ -6,7 +6,9 @@ Approved < Date TBD >
 
 Reviewed and contributed to by:
 
+- @riffingonsoftware 
 - @idunbarh
+- @AlanHohn 
 
 ## Meetings
 
