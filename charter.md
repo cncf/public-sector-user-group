@@ -1,18 +1,19 @@
 # CNCF Public Sector User Group Charter
 
-Primary Authors: @onlydole
+Primary Authors: [@onlydole](https://github.com/onlydole)
 
-Approved < Date TBD >
+
+Approved on: April 6th, 2023
 
 Reviewed and contributed to by:
 
-- @riffingonsoftware 
-- @idunbarh
-- @AlanHohn 
+- [@riffingonsoftware](https://github.com/riffingonsoftware)
+- [@idunbarh](https://github.com/idunbarh)
+- [@AlanHohn](https://github.com/AlanHohn)
 
 ## Meetings
 
-- Biweekly on Thursdays @ 10am Pacific
+- Biweekly on Thursdays @ 10 AM Pacific Time
 
 ## Introduction
 
@@ -40,7 +41,6 @@ The CNCF Public Sector User Group focuses on the following topics of the lifecyc
 - Limited Access Cloud Native Computing
   - _Limited access refers to cloud environments that, because of security classification or citizenship requirements, have physical connectivity restrictions and specialized regulatory approvals for data processing._
 
-
 The group will work on developing best practices, fostering collaboration between related projects, working on improving tool interoperability, as well as proposing new initiatives and projects when blank spots in the current landscape are identified.
 
 For CNCF projects, the scope of the Public Sector User Group engages, amongst others, with the application management focused ones, for example:
@@ -56,12 +56,18 @@ Anything not explicitly considered in the scope above. Example include:
 ## Roadmap
 
 - Track CNCF Project adoption of [White House Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/) guidance.
+- Provide guidance on governance models for CNCF sensitive projects that address steering concerns within the spirit of open source.
+- Open Source Memo on the benefits for open source and where the risk profile is for CNCF projects.
+- Breaking down regulatory guidance and mapping to CNCF projects / gaps
+- Collate and recommend data standards and formats for open source transparency (licensing, SBOM, build infra, contributors, governance).
+- Break down Government Open Source Requirements and mapping implementation of capabilities to CNCF projects.
+- Mapping compliance of security or other items from Government requirements (WH Executive Order 14028) to CNCF Project processes to show what CNCF projects are compliant.
 
 ## Governance
 
 ### Cross-group relationships
 
-Lifecycle management of applications is a broad and mainstream topic of Cloud Native computing; therefore this TAG may collaborate with other CNCF UGs, TAGs, and projects.
+The Public Sector is a broad vertical within Cloud Native computing; therefore this TAG may collaborate with other CNCF UGs, TAGs, and projects on various efforts.
 
 ## Contact
 
