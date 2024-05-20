@@ -6,11 +6,11 @@ The CNCF Public Sector User Group aims to serve as a hub for discussing and adva
 
 Biweekly on Thursdays @ 10 AM Pacific Time
 
-To participate, simply use the following link: [https://zoom-lfx.platform.linuxfoundation.org/meeting/92496539385]([url](https://zoom-lfx.platform.linuxfoundation.org/meeting/92496539385?password=c2394fad-98a0-486d-9746-deff3b7de463))
-
-Meeting password: c2394fad-98a0-486d-9746-deff3b7de463
+To participate, please register on the [LFX platform](https://zoom-lfx.platform.linuxfoundation.org/meeting/92496539385?password=c2394fad-98a0-486d-9746-deff3b7de463).
 
 ## Events
 
-- [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-- [KubeCon + CloudNativeCon North America 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [KuberTENes Birthday Bash 2024](https://events.linuxfoundation.org/kuber10es-birthday-bash/)
+- [CloudNativeSecurityCon North America 2024](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/)
+- [KubeCon + CloudNativeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025/)
