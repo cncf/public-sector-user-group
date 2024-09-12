@@ -4,4 +4,4 @@ This folder contains whitepapers produced by the Public Sector User Group, provi
 
 ## Whitepapers
 
-- [Public Sector Software Supply Chain](https://docs.google.com/document/d/15yAEfBkKTO8Jx_WW37qdDm_F5ppBqr5b84R7EXC_lE0/edit?usp=sharing)
+- [Public Sector Software Supply Chain (WIP)](https://docs.google.com/document/d/15yAEfBkKTO8Jx_WW37qdDm_F5ppBqr5b84R7EXC_lE0/edit?usp=sharing)
