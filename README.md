@@ -12,7 +12,6 @@ To participate, please register on the [LFX platform](https://zoom-lfx.platform.
 
 ## Events
 
-- [KuberTENes Birthday Bash 2024](https://events.linuxfoundation.org/kuber10es-birthday-bash/)
-- [CloudNativeSecurityCon North America 2024](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/)
-- [KubeCon + CloudNativeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+
 - [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025/)
+- [Open Source Summit North America 2025](https://events.linuxfoundation.org/open-source-summit-north-america/)
