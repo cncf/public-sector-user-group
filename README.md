@@ -12,6 +12,12 @@ To participate, please register on the [LFX platform](https://zoom-lfx.platform.
 
 ## Events
 
-
 - [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025/)
 - [Open Source Summit North America 2025](https://events.linuxfoundation.org/open-source-summit-north-america/)
+
+## Chairs
+
+The Public Sector User Group is co-chaired by:
+
+- [@djmoch](https://github.com/djmoch)
+- [@sfb103](https://github.com/sfb103)
