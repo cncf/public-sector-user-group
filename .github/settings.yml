@@ -1,0 +1,20 @@
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: public-sector-user-group
+
+  # A short description of the repository that will show up on GitHub
+  The CNCF Public Sector User Group aims to serve as a hub for discussing and advancing cloud computing within the public sector, utilizing cloud native technologies.
+
+  # A URL with more information about the repository
+  homepage: https://github.com/cncf/public-sector-user-group
+
+  # Collaborators: give specific users access to this repository.
+  collaborators:
+  # Admins
+  - username: djmoch
+    permission: admin
+    
+  - username: sfb103
+    permission: admin
