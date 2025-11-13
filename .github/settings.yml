@@ -15,6 +15,3 @@ repository:
   # Admins
   - username: djmoch
     permission: admin
-    
-  - username: sfb103
-    permission: admin
