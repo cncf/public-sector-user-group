@@ -4,4 +4,6 @@ This folder contains whitepapers produced by the Public Sector User Group, provi
 
 ## Whitepapers
 
-- [Public Sector Software Supply Chain (WIP)](https://docs.google.com/document/d/15yAEfBkKTO8Jx_WW37qdDm_F5ppBqr5b84R7EXC_lE0/edit?usp=sharing)
+- [Public Sector Software Supply Chain](https://www.cncf.io/reports/public-sector-software-supply-chain-whitepaper/)
+
+    In this whitepaper, we aim to clearly address the current and future challenges of securing the public sector software supply chain, and propose long-term, sustainable solutions for using open source technologies to meet the needs of government systems, whilst ensuring cost-effective solutions exist for the software supply chain.
