@@ -22,4 +22,4 @@ To participate, please register on the [LFX platform](https://zoom-lfx.platform.
 The Public Sector User Group is co-chaired by:
 
 - [@djmoch](https://github.com/djmoch)
-- [@sfb103](https://github.com/sfb103)
+- [@wcrum](https://github.com/wcrum)
