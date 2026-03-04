@@ -13,7 +13,7 @@ Reviewed and contributed to by:
 
 ## Meetings
 
-- Biweekly on Thursdays @ 10 AM Pacific Time
+- Biweekly on Wednesdays @ 2 PM EST / 1900 UTC
 
 ## Introduction
 

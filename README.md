@@ -6,7 +6,7 @@ The CNCF Public Sector User Group aims to serve as a hub for discussing and adva
 
 ## Meetings
 
-Bi-Weekly on Thursdays @ 10 AM Pacific Time
+Biweekly on Wednesdays @ 2 PM EST / 1900 UTC
 
 To participate, please register on the [LFX platform](https://zoom-lfx.platform.linuxfoundation.org/meeting/98294572507?password=5a1f62a4-3f62-4fea-bdb4-35312044f3fe&invite=true). [Direct Zoom Link.](https://zoom-lfx.platform.linuxfoundation.org/meeting/98294572507?password=5a1f62a4-3f62-4fea-bdb4-35312044f3fe)
 
