@@ -71,4 +71,4 @@ The Public Sector is a broad vertical within Cloud Native computing; therefore t
 
 ## Contact
 
-- [Slack Channel (#public-sector-ug)](https://cloud-native.slack.com/archives/C04RQ9L9KFS)
+- [Slack Channel (#ug-public-sector)](https://cloud-native.slack.com/archives/C04RQ9L9KFS)
